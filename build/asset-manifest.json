@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/real_patti/tree/master/frontend/static/css/main.3992f5e0.css",
+    "main.js": "/real_patti/tree/master/frontend/static/js/main.f49183ba.js",
+    "index.html": "/real_patti/tree/master/frontend/index.html",
+    "main.3992f5e0.css.map": "/real_patti/tree/master/frontend/static/css/main.3992f5e0.css.map",
+    "main.f49183ba.js.map": "/real_patti/tree/master/frontend/static/js/main.f49183ba.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3992f5e0.css",
+    "static/js/main.f49183ba.js"
+  ]
+}
